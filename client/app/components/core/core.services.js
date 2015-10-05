@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-    .module('yourAppName.core')
+    .module('compound.core')
 
     /**
      * Add Lodash as injectable object.

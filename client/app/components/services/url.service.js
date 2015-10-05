@@ -6,7 +6,7 @@
  * @namespace Factories
  */
 angular
-  .module('yourAppName.services')
+  .module('compound.services')
   .factory('url', url);
 
 /**

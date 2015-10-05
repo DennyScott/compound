@@ -3,7 +3,7 @@
 describe('When using the contains number directive', function() {
   var $scope, form;
 
-  beforeEach(module('yourAppName'));
+  beforeEach(module('compound'));
   beforeEach(inject(function($compile, $rootScope) {
     $scope = $rootScope;
     var element = angular.element(

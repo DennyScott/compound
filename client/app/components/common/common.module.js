@@ -1,4 +1,4 @@
 'use strict';
 
 angular
-  .module('yourAppName.common', []);
+  .module('compound.common', []);

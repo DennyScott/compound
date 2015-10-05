@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('yourAppName.services')
+  .module('compound.services')
   .constant('appUrls', {
     API_VERSION: 'v1',
     ROUTES: {

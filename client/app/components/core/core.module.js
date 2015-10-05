@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('yourAppName.core', [
+  .module('compound.core', [
     'ui.router',
     'pascalprecht.translate',
     'LocalStorageModule',

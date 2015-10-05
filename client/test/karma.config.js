@@ -44,7 +44,7 @@ module.exports = function(config) {
     files: sources,
 
     ngHtml2JsPreprocessor: {
-      moduleName: 'yourAppName',
+      moduleName: 'compound',
       stripPrefix: wwwRoot.replace(/\\/g, '/')
     },
 

@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('yourAppName.validators')
+  .module('compound.validators')
   .directive('containsNumber', containsNumber);
 
 function containsNumber(_) {

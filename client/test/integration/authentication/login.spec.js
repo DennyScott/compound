@@ -10,7 +10,7 @@ describe('Integration - When a user attempts to log in', function() {
     email = 'app@appnovation.com',
     password = '1234abcD!';
 
-  beforeEach(module('yourAppName'));
+  beforeEach(module('compound'));
 
   beforeEach(inject(
     function($controller, _authentication_, env,

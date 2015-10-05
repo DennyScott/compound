@@ -1,5 +1,5 @@
 {
-  "name": "yourAppName",
+  "name": "compound",
   "private": "true",
   "devDependencies": {
     "angular-mocks": "~1.4.2",

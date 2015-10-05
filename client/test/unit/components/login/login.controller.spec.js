@@ -36,7 +36,7 @@ describe('When a user attempts to login in the login controller, ', function() {
     });
   }
 
-  beforeEach(module('yourAppName'));
+  beforeEach(module('compound'));
 
   beforeEach(inject(function(_$controller_, _$q_, _$rootScope_) {
     $controller = _$controller_;

@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('yourAppName.core')
+  .module('compound.core')
   .run(checkForToken);
 
 function checkForToken($auth, users) {

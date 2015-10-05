@@ -3,7 +3,7 @@
 describe('Controller Dashboard: ', function() {
   var logController, authentication;
 
-  beforeEach(module('yourAppName'));
+  beforeEach(module('compound'));
 
   function authenticationMock() {
     authentication = jasmine.createSpyObj('authentication', ['logout']);

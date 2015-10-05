@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-.module('yourAppName.log')
+.module('compound.log')
 .config(function($stateProvider, $urlRouterProvider) {
   $stateProvider
 

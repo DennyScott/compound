@@ -13,7 +13,7 @@ describe('When I use the forgetPassword form', function() {
     return authentication;
   }
 
-  beforeEach(module('yourAppName'));
+  beforeEach(module('compound'));
 
   beforeEach(inject(function($controller) {
     forgotPasswordController = $controller('ForgotPasswordController', {

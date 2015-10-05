@@ -4,7 +4,7 @@ describe('When accessing the user', function() {
 
   var users, $q, $rootScope, user, userJson, Restangular, _, _user;
 
-  beforeEach(module('yourAppName'));
+  beforeEach(module('compound'));
 
   beforeEach(function() {
     module(function($provide) {

@@ -1,4 +1,4 @@
 'use strict';
 
 angular
-  .module('yourAppName.services', []);
+  .module('compound.services', []);

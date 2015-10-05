@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-    .module('yourAppName.log')
+    .module('compound.log')
     .controller('LogController', LogController);
 
 function LogController(authentication) {

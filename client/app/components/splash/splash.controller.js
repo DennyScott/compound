@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-    .module('yourAppName.splash')
+    .module('compound.splash')
     .controller('SplashController', SplashController);
 
 function SplashController($auth) {

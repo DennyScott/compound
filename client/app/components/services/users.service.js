@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('yourAppName.services')
+  .module('compound.services')
   .factory('users', users);
 
 function users(Restangular, $auth, _) {

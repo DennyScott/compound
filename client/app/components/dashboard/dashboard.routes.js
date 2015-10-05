@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('yourAppName.dashboard')
+  .module('compound.dashboard')
   .config(function($stateProvider) {
 
     $stateProvider

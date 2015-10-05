@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-    .module('yourAppName.services')
+    .module('compound.services')
     .factory('authentication', authentication);
 
 /**
@@ -36,7 +36,7 @@ function authentication($auth, $state, _, Restangular, $rootScope, authEvents) {
   }
 
   /**
-   * Log the user into the yourAppName server using an email and password.
+   * Log the user into the compound server using an email and password.
    * If the login is successful, forward the user to the log.dashboard page.
    *
    * @param  {string} email  Email of the current user

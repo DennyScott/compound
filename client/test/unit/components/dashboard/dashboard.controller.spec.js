@@ -3,7 +3,7 @@
 describe('Controller Dashboard: ', function() {
   var dashboardController;
 
-  beforeEach(module('yourAppName'));
+  beforeEach(module('compound'));
 
   beforeEach(inject(function($controller) {
     dashboardController = $controller('DashboardController', {

@@ -10,7 +10,7 @@ describe('Integration - When a user attempts to reset password', function() {
     email = 'app@appnovation.com',
     request;
 
-  beforeEach(module('yourAppName'));
+  beforeEach(module('compound'));
 
   beforeEach(inject(
     function($controller, _authentication_, _Restangular_,

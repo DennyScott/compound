@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('yourAppName.validators')
+  .module('compound.validators')
   .directive('containsUpperCase', containsUpperCase);
 
 function containsUpperCase(_) {

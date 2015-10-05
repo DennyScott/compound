@@ -3,7 +3,7 @@
 describe('Core Services', function() {
   var _;
 
-  beforeEach(module('yourAppName'));
+  beforeEach(module('compound'));
 
   beforeEach(inject(function(___) {
     _ = ___;

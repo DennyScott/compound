@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('yourAppName.login')
+  .module('compound.login')
   .controller('ForgotPasswordController', ForgotPasswordController);
 
 function ForgotPasswordController(authentication) {

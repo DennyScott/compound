@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-    .module('yourAppName.profile')
+    .module('compound.profile')
     .directive('organizations', organizations);
 
 function organizations() {

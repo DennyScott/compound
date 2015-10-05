@@ -2,7 +2,7 @@
 
 describe('When navigating to the splash screen', function() {
   var splashController, $auth;
-  beforeEach(module('yourAppName'));
+  beforeEach(module('compound'));
 
   function authMock() {
     $auth = jasmine.createSpyObj('$auth', ['isAuthenticated']);

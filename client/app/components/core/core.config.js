@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('yourAppName.core')
+  .module('compound.core')
 
   /**
   * Build from desired Language. This will default to english.
@@ -19,10 +19,10 @@ angular
   })
 
   /**
-  * Initalize the Local Storage Provider, with the yourAppName module.
+  * Initalize the Local Storage Provider, with the compound module.
   */
   .config(function(localStorageServiceProvider) {
-    localStorageServiceProvider.setPrefix('yourAppName');
+    localStorageServiceProvider.setPrefix('compound');
   })
 
   /**

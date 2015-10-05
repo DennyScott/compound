@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('yourAppName.splash')
+  .module('compound.splash')
   .config(splashRoutes);
 
 function splashRoutes($stateProvider) {

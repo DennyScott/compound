@@ -8,7 +8,7 @@ describe('When using the authentication service ', function() {
   var email = 'test@test.com';
   var password = '1234abcD!';
 
-  beforeEach(module('yourAppName'));
+  beforeEach(module('compound'));
 
 
   beforeEach(function() {

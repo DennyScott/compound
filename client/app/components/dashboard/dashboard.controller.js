@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('yourAppName.dashboard')
+  .module('compound.dashboard')
   .controller('DashboardController', DashboardController);
 
 function DashboardController() {

@@ -12,7 +12,7 @@ describe('When user is editing their profile, ', function() {
     return users;
   }
 
-  beforeEach(module('yourAppName'));
+  beforeEach(module('compound'));
 
   beforeEach(inject(function($controller, _$rootScope_, _$q_) {
     $q = _$q_;

@@ -1,4 +1,4 @@
-#  yourAppName Angular
+#  compound Angular
 
 ## Table of Contents
 1. [Adding to the Readme](#readme)

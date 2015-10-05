@@ -11,7 +11,7 @@ describe('When a user wants to update their password, ', function() {
     return users;
   }
 
-  beforeEach(module('yourAppName'));
+  beforeEach(module('compound'));
 
   beforeEach(inject(function($controller) {
     updatePasswordController = $controller('UpdatePasswordController', {
