@@ -5,7 +5,6 @@ angular
     'ui.router',
     'pascalprecht.translate',
     'LocalStorageModule',
-    'mm.foundation',
     'satellizer',
     'restangular',
   ]);
