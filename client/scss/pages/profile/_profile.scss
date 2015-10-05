@@ -1,7 +1,4 @@
 .profile-page {
-  @media #{$medium-up} {
-    margin-top: $top_page_buffer;
-  }
 
   .user-information {
     @include vertically-align($direction: row);
