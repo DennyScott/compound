@@ -7,7 +7,6 @@
     "angular": "~1.4.4"
   },
   "dependencies": {
-    "angular-foundation": "~0.6.0",
     "angular-local-storage": "~0.2.2",
     "angular-material": "~0.11.2",
     "angular-translate": "~2.7.2",
