@@ -12,6 +12,7 @@
     "angular-translate": "~2.7.2",
     "lodash": "~3.10.0",
     "restangular": "~1.5.1",
-    "satellizer": "~0.12.2"
+    "satellizer": "~0.12.2",
+    "rickshaw": "~1.5.1"
   }
 }
